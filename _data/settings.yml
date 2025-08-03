@@ -21,8 +21,7 @@ projects:
 # Contact Section
 
 social:
-#- {icon: 'twitter',   link: 'https://twitter.com/jebatta'}
-- {icon: 'tiktok',   link: 'https://www.tiktok.com/@je_batta'}
+- {icon: 'twitter',   link: 'https://twitter.com/jebatta'}
 - {icon: 'instagram', link: 'https://instagram.com/jebatta'}
 - {icon: 'github',    link: 'https://github.com/jebatta'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/jesus-e-batta'}
